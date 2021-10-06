@@ -1,0 +1,37 @@
+h1{
+    color:#804d00;
+    font-size: 300%;
+}
+
+p#joctext {
+    color: green;
+    font-size: 24px;
+}
+
+#joc {
+    text-align: left;
+    background-color: #c0c0c0;
+    width: 650px;
+    min-width: 400px;
+    border: solid 2px #808080;
+    padding: 8px;
+    margin: 8px;
+    font-size: 24px;
+}
+
+p#tatumtext {
+    color: #a62d2d;
+    text-indent: 20px;
+    margin-left: 10px;
+}
+
+#tatum {
+    text-align: center;
+    background-color: #ffb5b5;
+    width: 600px;
+    min-height: 300px;
+    border: solid 3px #a62d2d;
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+}
