@@ -1,0 +1,53 @@
+#my-portrait {
+    width: 500px;
+}
+
+.float-container {
+    padding: 10px;
+}
+
+.float-child.picture {
+    width: 30%;
+    float: left;
+    padding: 20px;
+}
+
+.float-child.text {
+    width: 60%;
+    float: right;
+    padding: 20px;
+    font-size: 30px;
+    color: #d1473d;
+}
+h1{
+  font-size: 60px;
+  color: #802019;
+}
+h2{
+  font-size: 40px;
+  color: #802019;
+}
+
+a:link {
+  color: #d1473d;
+}
+
+a:visited {
+  color: #d1473d;
+}
+
+a:hover {
+  color: #f57e76;
+}
+
+ul{
+  color: #d1473d;
+}
+
+img {
+  border: 5px solid #d1473d;
+}
+
+p{
+  text-align: justify;
+}
