@@ -1,0 +1,32 @@
+h1{
+  font-size: 40px;
+  color: #802019;
+}
+h2{
+  font-size: 40px;
+  color: #802019;
+}
+h3{
+  font-size: 40px;
+  color: #802019;
+}
+img {
+  border: 5px solid #d1473d;
+}
+
+p{
+  color: #d1473d;
+  font-size: 30px;
+  padding-left:250px;
+  padding-right: 250px;
+
+}
+
+div{
+  text-align: center;
+}
+
+#javascript{
+  color:#802019;
+  font-size: 30px;
+}
